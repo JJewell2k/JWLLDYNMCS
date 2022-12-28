@@ -21,7 +21,7 @@
     "gulp-rename": "^1.4.0",
     "gulp": "^4.0.2",
     "webpack-cli": "^3.2.3",
-    "webpack-dev-server": "^3.2.1",
+    "webpack-dev-server": "^4.11.1",
     "webpack": "^4.29.6",
     "gulp-pug": "^4.0.1"
   },
